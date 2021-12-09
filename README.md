@@ -1,2 +1,2 @@
 # DroneProject by Sagar, Linthoi and Daphilarishisha
-This is Repository of the Drone Project
+Controlling Drone with Hand Gestures using hand key point and neural network to recognize gestures and control drone. This Project relies on two parts – Drone and Python Code for fast hand key point detection. By using Tello as it is a perfect drone for any kind of programming experiments. It supports a Python library which helps to write codes for drone operation like the hand gesture, the inbuilt camera also helps to utilize its camera for computer vision programming.
